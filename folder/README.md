@@ -1,3 +1,5 @@
-This is my first folder
+# List of participants
 
-Tysha
+* Tysha
+* Vyoma Sheth
+
